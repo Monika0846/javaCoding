@@ -17,6 +17,6 @@ public class helloWorld {
  
 		String message = "<br><div style='text-align:center;'>"
 				+ "<h3>******** Hello Worldsdfdfd, Spring MVC Tutorial</h3>This message is coming from CrunchifyHelloWorld.java **********</div><br><br>";
-		return new ModelAndView("welome to spring mvc with git", "message", message);
+		return new ModelAndView("welome to spring mvc with git fsdfsdf", "message", message);
 	}
 }
